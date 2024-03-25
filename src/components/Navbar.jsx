@@ -15,7 +15,7 @@ const Navbar = () => (
     }}
   >
     <Link to="/" style={{ display: "flex", alignItems: "center" }}>
-      <img src={require("../images/metube.png")} alt="logo" height={45} />
+      <img className="logo" src={require("../images/metube.png")} alt="logo" />
     </Link>
     <SearchBar />
   </Stack>

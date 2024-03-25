@@ -30,6 +30,7 @@ a {
   outline: none;
   width: 350px;
 }
+
 .category-btn:hover {
   background-color: #fc1503 !important;
   color: white !important;
@@ -49,7 +50,6 @@ a {
   background: transparent;
   outline: none;
   border: none;
-
   padding: 7px 15px;
   margin: 10px 0px;
   border-radius: 20px;
@@ -61,6 +61,10 @@ a {
   width: 100% !important;
 }
 
+.logo {
+  height: 45px;
+}
+
 @media screen and (max-width: 900px) {
   .category-btn {
     margin: 10px;
@@ -70,6 +74,16 @@ a {
 @media screen and (max-width: 800px) {
   .copyright {
     display: none !important;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .search-bar {
+    width: 150px;
+  }
+
+  .logo {
+    height: 25px;
   }
 }
 
