@@ -51,6 +51,6 @@
 <img src="https://img.shields.io/badge/github:  scary27-%23323330.svg?style=for-the-badge&logo=github&logoColor=black" alt="github" style="margin-bottom: 5px;"/>
 </a>
 
-<a href="https://github.com/satishkumar" target="_blank">
-<img src="https://img.shields.io/badge/github:  satishkumar-%23323330.svg?style=for-the-badge&logo=github&logoColor=black" alt="github" style="margin-bottom: 5px;"/>
+<a href="https://github.com/satishkumar14" target="_blank">
+<img src="https://img.shields.io/badge/github:  satishkumar14-%23323330.svg?style=for-the-badge&logo=github&logoColor=black" alt="github" style="margin-bottom: 5px;"/>
 </a>
