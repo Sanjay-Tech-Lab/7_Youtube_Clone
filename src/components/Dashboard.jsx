@@ -66,7 +66,7 @@ export default function Dashboard() {
           sx={{ mt: 2, mx: "auto", maxWidth: 100 }}
           className="w-100 text-center mt-2"
         >
-          <Button
+          <Typography
             sx={{
               color: "white",
               textDecoration: "underline",
@@ -74,7 +74,7 @@ export default function Dashboard() {
             onClick={handleLogout}
           >
             Log Out
-          </Button>
+          </Typography>
         </Box>
       </Box>
     </>

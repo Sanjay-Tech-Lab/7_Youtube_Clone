@@ -28,9 +28,8 @@ export default function Login() {
     try {
       setError("");
       setLoading(true);
-      console.log(emailRef.current.value);
       await login(emailRef.current.value, passwordRef.current.value);
-      navigate("/dashboard");
+      navigate("/");
     } catch (error) {
       setError("Failed to log in");
     }
