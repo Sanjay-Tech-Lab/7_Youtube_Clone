@@ -8,3 +8,8 @@ export { default as Sidebar } from "./Sidebar";
 export { default as Videos } from "./Videos";
 export { default as VideoCard } from "./VideoCard";
 export { default as ChannelCard } from "./ChannelCard";
+export { default as Dashboard } from "./Dashboard";
+export { default as UpdateProfile } from "./UpdateProfile";
+export { default as Signup } from "./Signup";
+export { default as Login } from "./Login";
+export { default as ForgotPassword } from "./ForgotPassword";
